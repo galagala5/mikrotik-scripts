@@ -14,7 +14,7 @@
 </div>
 
 ### Mikrotik scripts from my home-lab
-1. Configuration backup with external script function
-2. Mqtt informs to monitor device status
-3. Wireguard rutine when system 
+1. Configuration backup with external script function.
+2. Mqtt informs to monitor device status.
+3. Wireguard rutine when system boot.
 
